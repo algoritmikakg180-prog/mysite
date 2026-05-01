@@ -1,1 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(aquamarine, rgb(9, 165, 237),white);
+}
 
+h1 {
+    text-align: center;
+    
+}
+header h1{
+    color: darkred;
+    
+}
+.party{
+    display: inline-block;
+    
+
+}
